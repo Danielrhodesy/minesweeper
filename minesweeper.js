@@ -53,7 +53,7 @@ document.addEventListener("contextmenu", checkForWin);
       }
     }
 
-    lib.displayMessage('Compamised all Agents')
+    lib.displayMessage('Compromised all Agents')
   }
 
   function restartTheGame(){
